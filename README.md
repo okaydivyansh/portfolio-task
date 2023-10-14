@@ -1,3 +1,5 @@
+This is task 31(or 6th task of react series) of MERN stack tasks by ethnus
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
